@@ -1,0 +1,29 @@
+{
+    "id": "210010",
+    "lastKnownEruption": "8300 BCE",
+    "elevation": 600.0,
+    "latitude": 50.17,
+    "isNorth": true,
+    "isEast": true,
+    "longitude": 6.85,
+    "volcanoType": [
+        "Volcanic field",
+        "Maar(s)",
+        "Pyroclastic cone(s)"
+    ],
+    "rockTypes": {
+        "major": "Foidite",
+        "minor": "Trachybasalt / Tephrite Basanite"
+    },
+    "tectonicSetting": [
+        "Rift zone",
+        "Continental crust (> 25 km)"
+    ],
+    "population": [
+        94991,
+        94991,
+        232256,
+        7945412
+    ],
+    "geologicalSummary": "The West Eifel Volcanic Field of western Germany, SW of the city of Bonn, is a dominantly Pleistocene group of 240 scoria cones, maars, and small stratovolcanoes covering an area of about 600 km2. The smaller, but better known, East Eifel Volcanic Field is about 40 km NE. Individual vents spread across a broad NW-SE-trending area extending about 50 km from the towns of Ormont on the NW to Bad Bertrich on the SE. Eruptions originated from a mantle plume through Devonian sedimentary and metamorphic rocks. Two-thirds of the volcanic centers in the field are scoria cones; lava flows have been produced from about half of them. About 30% of the centers are maars or tuff rings, many of which are occupied by lakes. About 230 eruptions have occurred during the past 730,000 years. The latest eruptions formed the Ulmener, Pulvermaar, and Strohn maars around the end of the Pleistocene and the beginning of the Holocene.\n\nThis volcano is located within the Vulkaneifel, a UNESCO Global Geopark property."
+}

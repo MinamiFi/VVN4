@@ -1,0 +1,3042 @@
+[
+    {
+        "number": 210010,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Europe"
+    },
+    {
+        "number": 210020,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Europe"
+    },
+    {
+        "number": 210030,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Europe"
+    },
+    {
+        "number": 210040,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Europe"
+    },
+    {
+        "number": 211004,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211010,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211020,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211030,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211031,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211040,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211041,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211042,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211050,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211060,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211070,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211071,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 211080,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Italy"
+    },
+    {
+        "number": 212020,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Greece"
+    },
+    {
+        "number": 212030,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Greece"
+    },
+    {
+        "number": 212040,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Greece"
+    },
+    {
+        "number": 212050,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Greece"
+    },
+    {
+        "number": 213000,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 213002,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 213010,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 213011,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 213020,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 213030,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 213040,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Turkey"
+    },
+    {
+        "number": 214010,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214020,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214050,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214060,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214070,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214080,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214090,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 214100,
+        "region": "Mediterranean and Western Asia",
+        "subregion": "Western Asia"
+    },
+    {
+        "number": 221010,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221020,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221021,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221022,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221040,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221041,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221050,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221060,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221071,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221080,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221090,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221091,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221100,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221101,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221102,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221103,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221104,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221105,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221106,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221107,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221110,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221111,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221112,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221113,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221114,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221115,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221116,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221120,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221122,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221123,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221124,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221125,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221126,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221127,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221141,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221150,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221151,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221160,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221170,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221171,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221172,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221180,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221190,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221191,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221200,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221210,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221220,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221222,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221230,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221250,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221251,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221252,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221260,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221270,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221280,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221290,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221291,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221294,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221320,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 221330,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northeastern) and Red Sea"
+    },
+    {
+        "number": 222001,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222010,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222020,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222021,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222030,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222040,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222050,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222051,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222052,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222053,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222054,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222055,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222056,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222060,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222070,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222071,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222080,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222090,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222100,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222110,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222120,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222130,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222160,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222161,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222164,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222166,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 222170,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (eastern)"
+    },
+    {
+        "number": 223001,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223002,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223003,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223004,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223005,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223020,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223030,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223040,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223050,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223060,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 223070,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (central)"
+    },
+    {
+        "number": 224002,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (western)"
+    },
+    {
+        "number": 224003,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (western)"
+    },
+    {
+        "number": 224004,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (western)"
+    },
+    {
+        "number": 224010,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (western)"
+    },
+    {
+        "number": 224011,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (western)"
+    },
+    {
+        "number": 224030,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (western)"
+    },
+    {
+        "number": 225001,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225004,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225005,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225006,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225009,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225010,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225020,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225021,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225030,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225040,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225050,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 225060,
+        "region": "Africa and Red Sea",
+        "subregion": "Africa (northern)"
+    },
+    {
+        "number": 231001,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (western)"
+    },
+    {
+        "number": 231040,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231050,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231060,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231070,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231071,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231072,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231080,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231090,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231110,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231120,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231160,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231170,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 231180,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (southern)"
+    },
+    {
+        "number": 232010,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Middle East (western)"
+    },
+    {
+        "number": 233001,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233005,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233010,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233011,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233012,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233013,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233014,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233015,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 233020,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (western)"
+    },
+    {
+        "number": 234000,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234001,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234002,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234010,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234011,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234020,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234030,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234040,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234050,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234060,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 234070,
+        "region": "Middle East and Indian Ocean",
+        "subregion": "Indian Ocean (southern)"
+    },
+    {
+        "number": 241010,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241020,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241021,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241030,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241040,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241050,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241070,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241080,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241100,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241101,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241102,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241110,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241120,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241130,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241131,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241140,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 241150,
+        "region": "New Zealand to Fiji",
+        "subregion": "New Zealand"
+    },
+    {
+        "number": 242001,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 242005,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 242010,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 242021,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 242022,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 242030,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 242050,
+        "region": "New Zealand to Fiji",
+        "subregion": "Kermadec Islands"
+    },
+    {
+        "number": 243001,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243010,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243011,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243030,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243040,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243050,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243060,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243061,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243070,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243080,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243090,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243091,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243100,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243101,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243102,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243110,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243111,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243112,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243120,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243130,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 243140,
+        "region": "New Zealand to Fiji",
+        "subregion": "Tonga Islands"
+    },
+    {
+        "number": 244000,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 244001,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 244010,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 244020,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 244021,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 244030,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 244040,
+        "region": "New Zealand to Fiji",
+        "subregion": "Samoan and Wallis Islands"
+    },
+    {
+        "number": 245010,
+        "region": "New Zealand to Fiji",
+        "subregion": "Fiji Islands"
+    },
+    {
+        "number": 245020,
+        "region": "New Zealand to Fiji",
+        "subregion": "Fiji Islands"
+    },
+    {
+        "number": 245030,
+        "region": "New Zealand to Fiji",
+        "subregion": "Fiji Islands"
+    },
+    {
+        "number": 250010,
+        "region": "Melanesia and Australia",
+        "subregion": "Admiralty Islands"
+    },
+    {
+        "number": 250020,
+        "region": "Melanesia and Australia",
+        "subregion": "Admiralty Islands"
+    },
+    {
+        "number": 250030,
+        "region": "Melanesia and Australia",
+        "subregion": "Admiralty Islands"
+    },
+    {
+        "number": 251001,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251002,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251010,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251011,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251020,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251030,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251041,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251050,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251060,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251070,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 251080,
+        "region": "Melanesia and Australia",
+        "subregion": "Northeast of New Guinea"
+    },
+    {
+        "number": 252010,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252021,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252030,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252040,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252050,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252060,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252070,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252071,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252080,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252090,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252100,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252110,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252120,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252130,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252140,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 252150,
+        "region": "Melanesia and Australia",
+        "subregion": "New Britain"
+    },
+    {
+        "number": 253010,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253011,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253021,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253030,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253031,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253040,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253041,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253050,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 253060,
+        "region": "Melanesia and Australia",
+        "subregion": "New Guinea and D'Entrecasteaux Islands"
+    },
+    {
+        "number": 254010,
+        "region": "Melanesia and Australia",
+        "subregion": "New Ireland"
+    },
+    {
+        "number": 254020,
+        "region": "Melanesia and Australia",
+        "subregion": "New Ireland"
+    },
+    {
+        "number": 255010,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255011,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255020,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255021,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255030,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255050,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255052,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255053,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255060,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255061,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255062,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 255070,
+        "region": "Melanesia and Australia",
+        "subregion": "Bougainville and Solomon Islands"
+    },
+    {
+        "number": 256010,
+        "region": "Melanesia and Australia",
+        "subregion": "Santa Cruz Islands"
+    },
+    {
+        "number": 257001,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257010,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257020,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257030,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257040,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257050,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257060,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257070,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257081,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257090,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 257100,
+        "region": "Melanesia and Australia",
+        "subregion": "Vanuatu"
+    },
+    {
+        "number": 258001,
+        "region": "Melanesia and Australia",
+        "subregion": "Pacific Ocean (southwestern)"
+    },
+    {
+        "number": 258010,
+        "region": "Melanesia and Australia",
+        "subregion": "Pacific Ocean (southwestern)"
+    },
+    {
+        "number": 258020,
+        "region": "Melanesia and Australia",
+        "subregion": "Pacific Ocean (southwestern)"
+    },
+    {
+        "number": 259010,
+        "region": "Melanesia and Australia",
+        "subregion": "Australia"
+    },
+    {
+        "number": 259804,
+        "region": "Melanesia and Australia",
+        "subregion": "Australia"
+    },
+    {
+        "number": 260001,
+        "region": "Indonesia",
+        "subregion": "Andaman Islands"
+    },
+    {
+        "number": 260010,
+        "region": "Indonesia",
+        "subregion": "Andaman Islands"
+    },
+    {
+        "number": 261020,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261030,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261050,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261070,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261080,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261090,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261110,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261111,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261120,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261121,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261130,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261140,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261150,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261160,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261170,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261180,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261200,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261210,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261220,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261230,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261231,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261251,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261270,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 261290,
+        "region": "Indonesia",
+        "subregion": "Sumatra"
+    },
+    {
+        "number": 262000,
+        "region": "Indonesia",
+        "subregion": "Krakatau"
+    },
+    {
+        "number": 263010,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263020,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263040,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263050,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263060,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263070,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263090,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263100,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263110,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263130,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263131,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263140,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263150,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263170,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263180,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263200,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263210,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263220,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263230,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263231,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263240,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263250,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263251,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263260,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263270,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263280,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263281,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263290,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263291,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263300,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263310,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263320,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263330,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263340,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263350,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 263351,
+        "region": "Indonesia",
+        "subregion": "Java"
+    },
+    {
+        "number": 264001,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264010,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264020,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264030,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264040,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264050,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264060,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264071,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264080,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264090,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264100,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264110,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264140,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264150,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264160,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264180,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264200,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264220,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264230,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264240,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264250,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264260,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 264270,
+        "region": "Indonesia",
+        "subregion": "Lesser Sunda Islands"
+    },
+    {
+        "number": 265040,
+        "region": "Indonesia",
+        "subregion": "Banda Sea"
+    },
+    {
+        "number": 265050,
+        "region": "Indonesia",
+        "subregion": "Banda Sea"
+    },
+    {
+        "number": 265060,
+        "region": "Indonesia",
+        "subregion": "Banda Sea"
+    },
+    {
+        "number": 265070,
+        "region": "Indonesia",
+        "subregion": "Banda Sea"
+    },
+    {
+        "number": 265080,
+        "region": "Indonesia",
+        "subregion": "Banda Sea"
+    },
+    {
+        "number": 265090,
+        "region": "Indonesia",
+        "subregion": "Banda Sea"
+    },
+    {
+        "number": 266010,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 266020,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 266030,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 266100,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 266110,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 266120,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 266130,
+        "region": "Indonesia",
+        "subregion": "Sulawesi"
+    },
+    {
+        "number": 267010,
+        "region": "Indonesia",
+        "subregion": "Sangihe Islands"
+    },
+    {
+        "number": 267020,
+        "region": "Indonesia",
+        "subregion": "Sangihe Islands"
+    },
+    {
+        "number": 267030,
+        "region": "Indonesia",
+        "subregion": "Sangihe Islands"
+    },
+    {
+        "number": 267040,
+        "region": "Indonesia",
+        "subregion": "Sangihe Islands"
+    },
+    {
+        "number": 268001,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268010,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268020,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268030,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268040,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268050,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268051,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268052,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268060,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268061,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268062,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268063,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268070,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268071,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268072,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 268073,
+        "region": "Indonesia",
+        "subregion": "Halmahera"
+    },
+    {
+        "number": 271010,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271011,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271020,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271030,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271031,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271040,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271060,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271061,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271070,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271071,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 271080,
+        "region": "Philippines and SE Asia",
+        "subregion": "Mindanao"
+    },
+    {
+        "number": 272010,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 272020,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 272030,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 272040,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 272050,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 272070,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 272080,
+        "region": "Philippines and SE Asia",
+        "subregion": "Central Philippines"
+    },
+    {
+        "number": 273010,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273020,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273030,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273031,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273041,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273042,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273044,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273050,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273060,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273070,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273080,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273083,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273087,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273088,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 273090,
+        "region": "Philippines and SE Asia",
+        "subregion": "Luzon"
+    },
+    {
+        "number": 274010,
+        "region": "Philippines and SE Asia",
+        "subregion": "North of Luzon"
+    },
+    {
+        "number": 274020,
+        "region": "Philippines and SE Asia",
+        "subregion": "North of Luzon"
+    },
+    {
+        "number": 274030,
+        "region": "Philippines and SE Asia",
+        "subregion": "North of Luzon"
+    },
+    {
+        "number": 274050,
+        "region": "Philippines and SE Asia",
+        "subregion": "North of Luzon"
+    },
+    {
+        "number": 274060,
+        "region": "Philippines and SE Asia",
+        "subregion": "North of Luzon"
+    },
+    {
+        "number": 275001,
+        "region": "Philippines and SE Asia",
+        "subregion": "Southeast Asia"
+    },
+    {
+        "number": 275020,
+        "region": "Philippines and SE Asia",
+        "subregion": "Southeast Asia"
+    },
+    {
+        "number": 275060,
+        "region": "Philippines and SE Asia",
+        "subregion": "Southeast Asia"
+    },
+    {
+        "number": 275080,
+        "region": "Philippines and SE Asia",
+        "subregion": "Southeast Asia"
+    },
+    {
+        "number": 275110,
+        "region": "Philippines and SE Asia",
+        "subregion": "Southeast Asia"
+    },
+    {
+        "number": 281031,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Taiwan"
+    },
+    {
+        "number": 281032,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Taiwan"
+    },
+    {
+        "number": 282010,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282020,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282021,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282022,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282030,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282040,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282043,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282050,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282060,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282070,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282080,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282081,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282090,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282091,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282100,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282110,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282120,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 282130,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Ryukyu Islands and Kyushu"
+    },
+    {
+        "number": 283001,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283002,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283003,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283010,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283020,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283030,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283031,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283040,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283050,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283060,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283069,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283070,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283071,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283080,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283090,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283100,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283110,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283120,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283121,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283122,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283130,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283131,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283140,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283141,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283142,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283143,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283150,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283151,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283160,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283170,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283180,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283190,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283191,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283200,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283210,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283220,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283230,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283240,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283250,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283260,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283262,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283270,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283271,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283280,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 283290,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Honshu"
+    },
+    {
+        "number": 284010,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284011,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284020,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284030,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284040,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284041,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284042,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284050,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284060,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284061,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284070,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284080,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284090,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284091,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284093,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284094,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284095,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284096,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284097,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284100,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284110,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284120,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284121,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284130,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284131,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284132,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284133,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284134,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284135,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284136,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284137,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284140,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284141,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284142,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284143,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284150,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284160,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284170,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284180,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284190,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284191,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284192,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284193,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284200,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284201,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284202,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284210,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284211,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284220,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284230,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 284305,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Izu, Volcano, and Mariana Islands"
+    },
+    {
+        "number": 285010,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285011,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285020,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285030,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285031,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285032,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285034,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285040,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285041,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285050,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285060,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285061,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285070,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285080,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285081,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285082,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285083,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    },
+    {
+        "number": 285090,
+        "region": "Japan, Taiwan, Marianas",
+        "subregion": "Hokkaido"
+    }
+]

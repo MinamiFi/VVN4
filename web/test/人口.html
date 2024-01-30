@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Population Chart</title>
+    <!-- <script src="./d3.v7.js"></script> -->
+    <script src='https://cdn.jsdelivr.net/npm/d3@7'></script>
+    <style>
+        /* 添加样式，如图表的初始宽度、高度等 */
+        svg {
+            transition: all 0.3s ease;
+            margin-left: 50px;
+            /* 调整图表的左边距 */
+            margin-top: 50px;
+            /* 调整图表的上边距 */
+        }
+
+        path {
+            fill: url(#gradient);
+            /*stroke: rgb(154, 15, 15);*/
+            stroke-width: 2;
+            stroke-opacity: 1;
+            /* 添加描边的透明度 */
+            stroke-linejoin: round;
+            /* 圆角连接线 */
+        }
+
+        path.line {
+            fill: none;
+            stroke: #000000;
+            stroke-width: 2;
+        }
+
+        /* 只显示图表上方的描边 */
+        path.upper-stroke {
+            fill: none;
+        }
+
+        circle {
+            fill: rgb(0, 0, 0);
+            stroke: #fff;
+            stroke-width: 2;
+        }
+
+        text {
+            fill: #000000;
+        }
+
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000000;
+            shape-rendering: crispEdges;
+        }
+
+        .axis text {
+            font-size: 12px;
+            fill: #000000;
+        }
+    </style>
+</head>
+
+<body>
+
+    <script>
+        // 引入 holoceneLatest.json 数据
+        d3.json("./holoceneLatest.json").then(function (data) {
+            console.log("完整数据:", data);
+
+            // 选择特定火山对象，这里选择数组的第一个元素，你可以根据需要进行修改
+            var selectedVolcano = data[0];
+
+            console.log("选定的火山数据:", selectedVolcano);
+
+            // 获取特定火山的人口数据
+            var populationData = selectedVolcano.population;
+
+            console.log("人口数据:", populationData);
+
+            // 距离范围
+            var distanceRanges = ["5km", "10km", "30km", "100km"];
+
+            // 创建 SVG 容器
+            var svg = d3.select("body").append("svg")
+                .attr("width", 1200) // 增加宽度
+                .attr("height", 800) // 增加高度
+                .append("g")
+                .attr("transform", "translate(100,50)"); // 调整整体位置
+
+            // 使用对数比例尺
+            var xScale = d3.scalePoint()
+                .domain(distanceRanges)
+                .range([0, 800])
+                .padding(0.5); // 调整 padding 值以控制刻度之间的间隔
+
+            var yScale = d3.scaleLog()
+                .domain([1, d3.max(populationData)])
+                .range([600, 0]);
+
+            // 创建渐变色
+            var gradient = svg.append("defs")
+                .append("linearGradient")
+                .attr("id", "gradient")
+                .attr("x1", "0%")
+                .attr("y1", "0%")
+                .attr("x2", "0%")
+                .attr("y2", "100%");
+
+            gradient.append("stop")
+                .attr("offset", "20%")
+                .style("stop-color", "darkblue") // 修正这里的写法
+                .style("stop-opacity", 0.7);
+
+            gradient.append("stop")
+                .attr("offset", "40%")
+                .style("stop-color", "#4682B4")
+                .style("stop-opacity", 0.4);
+
+            gradient.append("stop")
+                .attr("offset", "100%")
+                .style("stop-color", "white")
+                .style("stop-opacity", 0);
+
+            // 创建区域图
+            var area = d3.area()
+                .x(function (d, i) { return xScale(distanceRanges[i]) + xScale.bandwidth() / 2; })
+                .y0(600)
+                .y1(function (d) { return yScale(d); });
+
+            // 绘制区域图
+            svg.append("path")
+                .datum(populationData)
+                .attr("d", area);
+
+            // 添加折线
+            var line = d3.line()
+                .x(function (d, i) { return xScale(distanceRanges[i]) + xScale.bandwidth() / 2; })
+                .y(function (d) { return yScale(d); });
+
+            svg.append("path")
+                .datum(populationData)
+                .attr("class", "line")
+                .attr("d", line);
+
+            // 添加 X 轴
+            svg.append("g")
+                .attr("class", "axis")
+                .attr("transform", "translate(0, 600)")
+                .call(d3.axisBottom(xScale));
+            // 添加 Y 轴
+            svg.append("g")
+                .attr("class", "axis")
+                .call(d3.axisLeft(yScale).ticks(5, "~s"));
+
+            // 添加 Y 轴标签
+            svg.append("text")
+                .attr("transform", "rotate(-90)")
+                .attr("x", -300) // 调整位置
+                .attr("y", -60) // 调整位置
+                .style("font-size", "14px")
+                .text("Population");
+
+            // 添加数据点
+            svg.selectAll("circle")
+                .data(populationData)
+                .enter().append("circle")
+                .attr("cx", function (d, i) { return xScale(distanceRanges[i]) + xScale.bandwidth() / 2; })
+                .attr("cy", function (d) { return yScale(d); })
+                .attr("r", 5); // 圆形半径
+
+            // 添加数据点的连接线
+            svg.selectAll(".connect-line") // 改为 .connect-line
+                .data(populationData)
+                .enter().append("line")
+                .attr("x1", function (d, i) { return xScale(distanceRanges[i]) + xScale.bandwidth() / 2; })
+                .attr("y1", 600)
+                .attr("x2", function (d, i) { return xScale(distanceRanges[i]) + xScale.bandwidth() / 2; })
+                .attr("y2", function (d) { return yScale(d); })
+                .style("stroke", "#666");
+
+            // 添加数据点的数字标签
+            svg.selectAll("text.label")
+                .data(populationData)
+                .enter().append("text")
+                .attr("class", "label")
+                .attr("x", function (d, i) { return xScale(distanceRanges[i]) + xScale.bandwidth() / 2; })
+                .attr("y", function (d) { return yScale(d) - 10; })
+                .text(function (d) { return d3.format(",")(d); }) // 使用逗号分隔的整数格式
+                .attr("text-anchor", "middle")
+                .style("font-size", "14px")
+                .style("fill", "#666");
+
+            // 添加标题
+            svg.append("text")
+                .attr("x", 400)
+                .attr("y", -20) // 调整位置
+                .attr("text-anchor", "middle")
+                .style("font-size", "16px")
+                .text("Population Chart");
+            // 添加标题
+            svg.append("text")
+                .attr("x", 400)
+                .attr("y", 660) // 调整位置
+                .attr("text-anchor", "middle")
+                .style("font-size", "14px")
+                .text("Distance from the volcano");
+
+            // 添加底部线状样式
+            svg.append("line")
+                .attr("x1", 0)
+                .attr("y1", 600)
+                .attr("x2", 800)
+                .attr("y2", 600)
+                .attr("class", "bottom-line") // 改为 .bottom-line
+                .style("stroke", "black")
+                .style("stroke-width", 1)
+                .style("shape-rendering", "crispEdges");
+
+        });
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Volcanic Rock Types Gradient Pie Chart</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <style>
+        .slice {
+            filter: url(#drop-shadow);
+        }
+
+        .legend text {
+            font-size: 12px;
+            fill: #bc0707;
+            fill: #f53f3f;
+            fill: #b91c1c;
+            fill: #b73737;
+            fill: #e04646;
+            fill: #ea5a32;
+            fill: #dd481b;
+            fill: #fa690f;
+            fill: #ef5f37;
+            fill: rgb(212, 55, 7);
+            fill: #ff7c17;
+            fill: #e76413;
+            fill: #f1830e;
+        }
+
+        .legend rect {
+            width: 18px;
+            height: 18px;
+            stroke: white;
+            stroke-width: 2px;
+        }
+
+        .tooltip {
+            position: absolute;
+            background-color: rgba(255, 255, 255, 0.8);
+            padding: 8px;
+            border-radius: 4px;
+            pointer-events: none;
+            display: none;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- <div id="color-container"></div> -->
+    <div id="pie-chart"></div>
+    <script>
+        d3.json('./holoceneLatest.json').then(data => {
+            const rockTypeCounts = {};
+
+            data.forEach(volcano => {
+                const rockTypes = volcano.rockTypes && volcano.rockTypes.major || [];
+                rockTypes.forEach(type => {
+                    rockTypeCounts[type] = (rockTypeCounts[type] || 0) + 1;
+                });
+            });
+
+            const threshold = 40;
+            const otherCount = Object.keys(rockTypeCounts).reduce((sum, type) => {
+                if (rockTypeCounts[type] <= threshold) {
+                    sum += rockTypeCounts[type];
+                    delete rockTypeCounts[type];
+                }
+                return sum;
+            }, 0);
+
+            if (otherCount > 0) {
+                rockTypeCounts['Other'] = otherCount;
+            }
+
+            const pieData = Object.keys(rockTypeCounts).map(type => ({
+                label: type,
+                value: rockTypeCounts[type]
+            }));
+
+            const uniqueTypes = pieData.map(d => d.label);
+
+            const pieChartLayout = {
+                width: 500,
+                height: 500,
+                margin: 50
+            };
+
+            const pieChart = d3.select("#pie-chart")
+                .append("svg")
+                .attr("width", pieChartLayout.width + 20)
+                .attr("height", pieChartLayout.height + 20)
+                .append("g")
+                .attr("transform", `translate(${pieChartLayout.width / 2},${pieChartLayout.height / 2})`);
+
+            pieChart.append("text")
+                .attr("text-anchor", "middle")
+                .style("font-size", "14px")
+                .style("font-weight", "bold")
+                .text("Percentage of ");
+
+            pieChart.append("text")
+                .attr("text-anchor", "middle")
+                .style("font-size", "14px")
+                .style("font-weight", "bold")
+                .append("tspan")
+                .attr("dy", "1em")
+                .attr("x", 0)
+                .text("Volcanic Rock Types");
+
+            const arc = d3.arc()
+                .innerRadius(pieChartLayout.width / 4)
+                .outerRadius(Math.min(pieChartLayout.width, pieChartLayout.height) / 2 - pieChartLayout.margin)
+                .cornerRadius(12);
+
+            const customColors = [
+                "#bc0707",
+                "#f53f3f",
+                "#b93232",
+                "#b73737",
+                "#e04646",
+                "#ea5a32",
+                "#dd481b",
+                "#fa690f",
+                "#e76413",
+                "#ff8a04",
+                "#ff7c17",
+                "rgb(212, 55, 7)",
+                "#ef5f37",
+                "#f1830e"
+            ];
+
+            const colorScale = d3.scaleOrdinal()
+                .domain(uniqueTypes)
+                .range(customColors);
+
+            const gradient = pieChart.append("defs")
+                .selectAll("radialGradient")
+                .data(uniqueTypes)
+                .enter()
+                .append("radialGradient")
+                .attr("id", (d, i) => `gradient-${i}`)
+                .attr("cx", "50%")
+                .attr("cy", "50%")
+                .attr("r", "50%");
+
+            gradient.append("stop")
+                .attr("offset", "0%")
+                .style("stop-color", (d, i) => colorScale(d));
+
+            gradient.append("stop")
+                .attr("offset", "100%")
+                .style("stop-color", (d, i) => colorScale(d));
+
+            const shadow = pieChart.append("defs")
+                .append("filter")
+                .attr("id", "drop-shadow")
+                .attr("height", "200%");
+
+            shadow.append("feGaussianBlur")
+                .attr("in", "SourceAlpha")
+                .attr("stdDeviation", 3)
+                .attr("result", "blur");
+
+            shadow.append("feFlood")
+                .attr("flood-color", "darkred")
+                .attr("result", "color");
+
+            shadow.append("feComposite")
+                .attr("in", "color")
+                .attr("in2", "blur")
+                .attr("operator", "in");
+
+            shadow.append("feOffset")
+                .attr("in", "in")
+                .attr("dx", 2)
+                .attr("dy", 2)
+                .attr("result", "offsetBlur");
+
+            const feMerge = shadow.append("feMerge");
+
+            feMerge.append("feMergeNode")
+                .attr("in", "offsetBlur");
+
+            feMerge.append("feMergeNode")
+                .attr("in", "SourceGraphic");
+
+            const pie = d3.pie()
+                .value(d => d.value);
+
+            const slices = pieChart.selectAll("path")
+                .data(pie(pieData))
+                .enter()
+                .append("path")
+                .attr("class", "slice")
+                .attr("d", arc)
+                .attr("fill", (d, i) => `url(#gradient-${uniqueTypes.indexOf(d.data.label)})`)
+                .attr("stroke", "black")
+                .style("stroke-width", "0px")
+                .on("mouseover", handleMouseOver)
+                .on("mouseout", handleMouseOut)
+                .each(function (d) {
+                    const filter = d3.select(this).append("filter")
+                        .attr("id", `drop-shadow-${uniqueTypes.indexOf(d.data.label)}`)
+                        .attr("height", "150%");
+
+                    filter.append("feGaussianBlur")
+                        .attr("in", "SourceAlpha")
+                        .attr("stdDeviation", 8)
+                        .attr("result", "blur");
+
+                    filter.append("feFlood")
+                        .attr("flood-color", "darkred")
+                        .attr("result", "color");
+
+                    filter.append("feComposite")
+                        .attr("in", "color")
+                        .attr("in2", "blur")
+                        .attr("operator", "in");
+
+                    filter.append("feOffset")
+                        .attr("in", "in")
+                        .attr("dx", 4)
+                        .attr("dy", 4)
+                        .attr("result", "offsetBlur");
+
+                    const feMerge = filter.append("feMerge");
+
+                    feMerge.append("feMergeNode")
+                        .attr("in", "offsetBlur");
+
+                    feMerge.append("feMergeNode")
+                        .attr("in", "SourceGraphic");
+
+                    d3.select(this).attr("filter", `url(#drop-shadow-${uniqueTypes.indexOf(d.data.label)})`);
+                });
+
+            function handleMouseOver(event, d) {
+                d3.select(this)
+                    .transition()
+                    .duration(200)
+                    .attr("d", d3.arc().innerRadius(pieChartLayout.width / 4).outerRadius(Math.min(pieChartLayout.width, pieChartLayout.height) / 2 + 10 - pieChartLayout.margin)
+                        .cornerRadius(10));
+
+                d3.select(".tooltip")
+                    .style("display", "inline-block")
+                    .html(`<strong>${d.data.label}</strong>: ${((d.data.value / d3.sum(pieData, d => d.value)) * 100).toFixed(2)}%`)
+                    .style("left", (event.pageX + 10) + "px")
+                    .style("top", (event.pageY - 10) + "px");
+            }
+
+            function handleMouseOut() {
+                d3.select(this)
+                    .transition()
+                    .duration(200)
+                    .attr("d", arc);
+
+                d3.select(".tooltip").style("display", "none");
+            }
+
+            d3.select("body")
+                .append("div")
+                .attr("class", "tooltip");
+        });
+    </script>
+</body>
+
+</html>
